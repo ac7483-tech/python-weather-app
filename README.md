@@ -1,6 +1,4 @@
-Here's a professional and simple README description for your weather app:
 
----
 
 # Advanced Weather Dashboard
 
